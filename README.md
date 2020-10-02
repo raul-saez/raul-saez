@@ -2,6 +2,6 @@
 
 - 🌱&nbsp;&nbsp;Learning [RedwoodJS](https://redwoodjs.com/)
 - 💼&nbsp;&nbsp;Working at [Apposing Ltd](https://apposing.co.uk/)
-- 📖&nbsp;&nbsp;Reading [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
+- 📖&nbsp;&nbsp;Reading [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.goodreads.com/book/show/25541028-elon-musk) & [Superintelligence: Paths, Dangers, Strategies](https://www.goodreads.com/book/show/20527133-superintelligence)
 - 📫&nbsp;&nbsp;How to reach me: raulsaezp@gmail.com
 - ⚡&nbsp;&nbsp;Fun fact of the month: 29th May is officially "Put a Pillow on Your Fridge Day"
