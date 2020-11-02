@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raul</h1>
 
-- 🌱 I’m currently learning **everything**
-- 📫 How to reach me **raulsaezp@gmail.com**
+- 🌱  I’m currently learning **everything**
+- 📫  How to reach me **raulsaezp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
