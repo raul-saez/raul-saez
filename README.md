@@ -3,7 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raul-saez&label=Profile%20views&color=0e75b6&style=flat" alt="raul-saez" /> </p>
 
 - 🌱 I’m currently learning **everything**
-
 - 📫 How to reach me **raulsaezp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
