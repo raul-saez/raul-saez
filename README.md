@@ -1,5 +1,5 @@
 ## About me
-Hi! I'm a software developer based in Liverpool and currently working at [Apposing](https://www.apposing.co.uk/). 
+Hi! I'm a software developer based in Liverpool.
 
 
 <table>
