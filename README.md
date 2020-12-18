@@ -1,5 +1,5 @@
 ## About me
-Hi! I'm a software developer based in Liverpool.
+Hi! I'm a Software Developer based in Liverpool.
 
 
 <table>
