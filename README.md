@@ -1,5 +1,5 @@
 ## About me
-Hi! I'm a Software Developer based in Liverpool.
+Hi! I'm a Software Developer based in Liverpool, UK.
 
 
 <table>
@@ -20,7 +20,7 @@ Hi! I'm a Software Developer based in Liverpool.
 </tr>
   </table>
 
-## More about me
+<!-- ## More about me
 <table>
   <tr>
     <td align='center' width="140">
@@ -68,3 +68,4 @@ Hi! I'm a Software Developer based in Liverpool.
     </td>
     </tr>
 </table>
+ -->
