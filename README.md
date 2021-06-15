@@ -1,5 +1,5 @@
 ## About me
-Hi! I'm a Software Developer based in the United Kingdom.
+Hi! I'm a Software Developer based in the UK.
 
 
 <table>
